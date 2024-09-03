@@ -8,3 +8,30 @@ To install the required libraries, run:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Usage
+
+1. Run the script:
+   
+   ```bash
+   python heic_to_jpeg_converter.py
+   ```
+
+2. Select the folder containing HEIC files.
+
+3. Choose the source and target formats or type them manually.
+
+4. Click "Start Conversion" to convert the files. 
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/0ae65053-7f23-4a6d-b92b-f0f0805a1c96)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+
+Your Khing - kokhing039@gmail.com

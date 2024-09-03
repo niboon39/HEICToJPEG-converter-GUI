@@ -36,4 +36,4 @@ This project is licensed under the MIT License
 
 ## Contact
 
-Your Khing - kokhing039@gmail.com
+Khing - kokhing039@gmail.com

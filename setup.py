@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='heic_to_jpeg_converter',
+    name='HeicToJpg',
     version='1.0',
     packages=find_packages(),
     install_requires=[
@@ -12,7 +12,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'heic_to_jpeg_converter=your_module:main_function',
+            'HeicToJpg=your_module:main_function',
         ],
     },
     author='Niboon',

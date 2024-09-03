@@ -20,8 +20,8 @@ python heic_to_jpeg_converter.py
 4. Click "Start Conversion" to convert the files. 
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/0ae65053-7f23-4a6d-b92b-f0f0805a1c96)
 
-!Main Interface
 
 ## License
 

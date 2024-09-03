@@ -15,7 +15,7 @@ pip install -r requirements.txt
 1. Run the script:
    
    ```bash
-   python heic_to_jpeg_converter.py
+   python HeicToJpg.py
    ```
 
 2. Select the folder containing HEIC files.

@@ -18,5 +18,5 @@ setup(
     author='Niboon',
     author_email='kokhing039@gmail.com',
     description='A simple HEIC to JPEG converter with a GUI',
-    url='https://github.com/niboon39/Codewars/tree/main/Convert_HeicToJpg',
+    url='https://github.com/niboon39/HEICToJPEG-converter-GUI',
 )
